@@ -1,0 +1,13 @@
+<!ELEMENT Lacivious (page,copyright)>
+<!ELEMENT page (#PCDATA)>
+<!ATTLIST page type CDATA "authors">
+<!ATTLIST page type CDATA "number">
+<!ELEMENT copyright (#PCDATA)>
+<!ATTLIST copyright type CDATA "title">
+<!ATTLIST copyright type CDATA "story">
+<!ATTLIST copyright type CDATA "writers">
+<!ATTLIST copyright type CDATA "holders">
+<!ATTLIST copyright type CDATA "title">
+
+
+
